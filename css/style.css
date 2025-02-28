@@ -1,0 +1,492 @@
+/* thai */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa09eDegJo0yyg.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa09eDem5o0yyg.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa09eDempo0yyg.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa09eDelJo0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDI1apSCOBt_aeQQ7ftydoa8SsLLq7s.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDI1apSCOBt_aeQQ7ftydoa8UcLLq7s.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDI1apSCOBt_aeQQ7ftydoa8UMLLq7s.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDI1apSCOBt_aeQQ7ftydoa8XsLL.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0reHegJo0yyg.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0reHem5o0yyg.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0reHempo0yyg.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0reHelJo0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0gebegJo0yyg.woff2) format('woff2');
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0gebem5o0yyg.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0gebempo0yyg.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0gebelJo0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 0;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f5f5f5;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #000;
+    border-radius: 5px;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: var(--colorOne);
+}
+:root {
+    --colorOne: #00A8E8;
+}
+.body {
+    padding: 30px 0;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.details {
+    padding: 50px;
+/*     border: 1px solid #eee; */
+    border-radius: 2px;
+    position: relative;
+    background-color: #fff;
+    z-index: 9;
+}
+.details::before {
+    position: absolute;
+    content: '';
+    width: 70%;
+    height: 25px;
+    background-color: #f5f5f5;
+    left: -5px;
+    top: -1px;
+    transform: skewX(-30deg)
+}
+.headline {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 22px;
+    position: relative;
+}
+.headline::before {
+    position: absolute;
+    content: '';
+    left: 0;
+    bottom: 1px;
+    height: 2px;
+    width: 50px;
+    background-color: var(--colorOne);
+}
+.headline::after {
+    position: absolute;
+    content: '';
+    left: 10px;
+    bottom: 1px;
+    height: 2px;
+    width: 5px;
+    background-color: #fff;
+    transform: skewX(-30deg)
+}
+.s-head {
+    display: flex;
+    justify-content: space-around
+}
+.s-head .myName {
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.s-head .myPosition {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--colorOne);
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.s-head .myInfo {
+    display: table;
+    content: '';
+    clear: both;
+}
+.s-head .myInfo a:hover {
+    color: var(--colorOne);
+}
+.s-head .myInfo li {
+    float: left;
+    margin-top: 5px;
+}
+.s-head .myInfo li i {
+    margin-right: 2px;
+    color: var(--colorOne);
+}
+.s-head .myInfo li:not(:last-child) {
+    margin-right: 15px;
+}
+.s-head .myAvatar img {
+    border-radius: 50%;
+    display: block
+}
+
+.b-card-1 {}
+.b-card-1 .b_date {
+    font-weight: 500;
+}
+.b-card-1 .b_title {
+    font-size: 20px;
+    font-weight: 500
+}
+.b-card-1 .b_mark {
+    color: var(--colorOne);
+    font-weight: bold;
+    font-size: 16px;
+}
+.b-card-1 .b_desc p {
+    padding-left: 15px;
+    position: relative;
+}
+/* .b-card-1 .b_desc p::before {
+    font-family: FontAwesome;
+    content: '\f1ce';
+    font-size: 6px;
+    position: absolute;
+    left: 3px;
+    top: 7px;
+} */
+.b-card-1 .b_content {
+    padding-bottom: 10px;
+}
+
+.s-education .headline, .s-experience .headline {
+    margin-bottom: 15px;
+}
+.s-skills .skillList {
+    display: table;
+    content: '';
+    clear: both;
+}
+.s-skills .skillList li {
+    float: left;
+    padding: 6px 15px;
+    background-color: #f5f5f5;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.s-skills .skillList li:not(:last-child) {
+    margin-right: 15px;
+}
+.s-skills .skillContent {
+    margin-top: 20px;
+}
+.s-project .title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.backtop a {
+    background-color: #f5f5f5;
+}
+table {
+    width: 100%;
+    margin: 15px auto 0;
+}
+table, th, td {
+    border: 1px solid #eee;
+    border-collapse: collapse;
+}
+table th {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border: 1px solid #f5f5f5;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+table tr {
+    background-color: #fff;
+    text-align: left
+}
+table td {
+    padding: 10px 20px;
+    transition: all.1s;
+}
+table td:first-child {
+    width: 20%;
+    align-content: start
+}
+/* table tr:not(first-child):hover {
+    background-color: #f9f9f9;
+} */
+table tr:nth-child(2n+1) {
+    background-color: #fcfcfc;
+}
+.s-task p {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+.s-task a {
+    color: var(--colorOne);
+}
+.s-task a:hover {
+    text-decoration: underline;
+}
+.b-card-2 {
+    margin-top: 15px;
+}
+.b-card-2 .b_title {
+    font-weight: bold;
+    font-size: 18px;
+    color: var(--colorOne);
+}
+.b-card-2 .b_desc {
+    color: #333;
+    font-style: italic;
+}
+@media (min-width: 576px) {
+    .b-card-2 {
+        margin-left: 20px;
+    }
+    .b-card-1 .b_content {
+        border-left: 2px solid #ddd;
+        padding-left: 30px;
+    }
+    .b-card-1 .b_content::before {
+        position: absolute;
+        content: '';
+        left: -10px;
+        top: -1px;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: #111;
+        border: 4px solid #fff;
+    }
+}
+@media (max-width: 991px) {
+    .s-head .myName {
+        font-size: 35px
+    }
+    .s-head .myPosition {
+        font-size: 16px
+    }
+}
+@media (max-width: 767px) {
+    .details {
+        padding: 30px;
+    }
+    .s-head .myName {
+        font-size: 28px;
+    }
+    .headline {
+        font-size: 20px
+    }
+}
+@media (max-width: 575px) {
+    .s-head .myName {
+        font-size: 22px;
+    }
+    body {
+        font-size: 14px;
+    }
+    .headline {
+        font-size: 18px
+    }
+    .b-card-1 .b_title {
+        font-size: 18px
+    }
+    .b-card-1 .b_mark {
+        font-size: 15px
+    }
+    .s-head .myAvatar img {
+        margin-top: 15px;
+    }
+    .s-summary span {
+        text-align: justify;
+        display: block;
+    }
+}
+@media (max-width: 375px) {
+    body {
+        font-size: 13px
+    }
+    p {
+        margin-bottom: 5px;
+    }
+    .s-head .myName {
+        font-size: 20px
+    }
+    .s-experience .b-card-1:not(:first-child) {
+       margin-top: 5px;
+    }
+    .details::before {
+        display: none
+    }
+    .details {
+        padding: 30px 15px;
+    }
+    .b-card-1 .b_desc p {
+        padding-left: 0;
+    }
+    .s-head .myPosition {
+        font-size: 15px
+    }
+    .ht-mrt30 {
+        margin-top: 20px;
+    }
+    .s-education .headline, .s-experience .headline {
+        margin-bottom: 10px;
+    }
+    .b-card-1 .b_title, .b-card-2 .b_title {
+        font-size: 16px
+    }
+    .b-card-1 .b_desc {
+        text-align: justify
+    }
+    .s-skills, .s-education {
+        margin-top: 0;
+    }
+    .s-education .b-card-1 .b_content {
+        padding-bottom: 0;
+    }
+    .s-skills .skillList li {
+        margin: 10px 10px 0 0 !important;
+    }
+    .s-skills .skillContent {
+        text-align: justify
+    }
+    table td {
+        padding: 8px 15px;
+        text-align: justify
+    }
+    .s-task p {
+        font-size: 14px;
+    }
+}

@@ -4,7 +4,6 @@
 .details .col-md-4.sidebar {
     background-color: #1c222f;
     color: #eee;
-    font-size: 16px
 }
 .details::before {
     content: none;

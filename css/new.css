@@ -1,7 +1,7 @@
 .body {
     padding: 0;
 }
-.details .col-lg-4.sidebar {
+.details .col-md-4.sidebar {
     background-color: #1c222f;
     color: #eee;
     font-size: 16px
@@ -114,13 +114,10 @@
 .sidebarInfo .headline::after {
     background-color: #1c222f;
 }
-.headline::before {
-/*     height: 1px; */
-}
-.col-lg-8 .headline::before {
+.col-md-8 .headline::before {
     width: 75%;
     background: linear-gradient(to right, var(--colorOne), #fff);
-    height: 1px;
+/*     height: 1px; */
 }
 @media (min-width: 576px) {
     .b-card-1 .b_content {
@@ -135,19 +132,117 @@
         top: 0;
         height: 100%;
         width: 1px;
-        background: linear-gradient(to bottom, #eee, #fff);
+        background: linear-gradient(to bottom, #ddd, #fff);
     }
     .b-card-1 .b_content::before {
         content: none;
     }
 }
-@media (min-width: 1260px) {
-    .details .col-lg-4.sidebar {
+@media (min-width: 992px) {
+    .details .col-md-4.sidebar {
         padding: 0;
     }
-    .details .col-lg-8.content {
-        text-align: justify;
-        padding: 50px 50px 50px 30px;
+    .details .col-md-8.detail {
+
         background: linear-gradient(to right, #fcfcfc, #fff );
+    }
+}
+@media (min-width: 1025px) {
+
+    .details .col-md-8 .content {
+        padding: 50px 35px 50px 30px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1259px) {
+    .myName {
+        font-size: 40px
+    }
+}
+@media (max-width: 1024px) {
+    .myPosition {
+        font-size: 15px
+    }
+    .details .col-md-8 .content {
+        padding: 30px 15px 50px;
+
+    }
+}
+@media (max-width: 991px) {
+    .details > .row {
+        flex-direction: column-reverse
+    }
+    .myImage {
+        display: none
+    }
+    .details .col-md-8 .content {
+        padding: 50px 30px 30px;
+    }
+}
+@media (max-width: 767px) {
+    .myName {
+        font-size: 33px
+    }
+}
+@media (max-width: 575px) {
+    .details .col-md-8 .content {
+        padding: 30px 15px;
+    }
+    .myName {
+        font-size: 30px;
+    }
+    .headline {
+        margin-bottom: 10px;
+    }
+    .ht-mrt30 {
+        margin-top: 20px;
+    }
+    .b-card-1 .b_date {
+        margin-bottom: 10px;
+    }
+    .b-card-1 .b_title {
+        margin-bottom: 0;
+    }
+    .sidebarInfo {
+        padding: 30px 15px;
+    }
+    .sidebarInfo .headline {
+        font-size: 18px
+    }
+}
+@media (max-width: 375px) {
+    .myName::before {
+        display: none
+    }
+    .myName, .myPosition {
+        padding: 0;
+        text-align: center
+    }
+    .myName {
+        font-size: 20px;
+    }
+    .myPosition {
+        font-size: 14px;
+    }
+    .headline {
+        margin-bottom: 5px;
+    }
+    .b-card-1 .b_title {
+        font-size: 16px
+    }
+    .b-card-1 .b_name {
+        font-size: 14px
+    }
+    .ht-mrt30 {
+        margin-top: 15px;
+    }
+    .details .col-md-4.sidebar {
+        font-size: 13px
+    }
+    .myContact li i {
+        width: 20px;
+        height: 20px;
+    }
+    .b-card-1 {
+        margin-bottom: 10px;
     }
 }
